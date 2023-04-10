@@ -1,0 +1,17 @@
+{
+    "res": "720p",
+    "filler_dir": "./fillers",
+    "content_dir": "./content",
+    "output_dir": "./out",
+    "sounds_dir": "./sounds",
+    "fillers": [
+        "https://www.youtube.com/watch?v=y9Ecb43qw98",
+        "https://www.youtube.com/watch?v=d0Z8wLLPNE0",
+        "https://www.youtube.com/watch?v=UBuPWdSbyf8",
+        "https://www.youtube.com/watch?v=U7SLv0ePWU0",
+        "https://www.youtube.com/watch?v=Utq5yQvk6Lo"
+    ],
+    "sounds": [
+        "https://www.youtube.com/watch?v=Urln1aAl5zw"
+    ]
+}
